@@ -32,3 +32,5 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.3.0
 )
+
+replace github.com/caddyserver/certmagic => github.com/skeetmtp/certmagic v0.12.1-0.20210325080747-4781b1504605
